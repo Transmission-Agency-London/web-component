@@ -11,9 +11,10 @@ Create a custom web component that displays the data for a podcast episode from 
 ### What's the task? ###
 
 * Create a web component
-* The web component should accept a Spotify podcast episode ID
+* The web component should accept a Spotify podcast episode ID.
 * The web component should scape the podcast image, title and date for the podcast episode and have a play button that, when clicked, loads the Spotify embed player and autoplays the episode.
-* Web component output should be responsive
+* Web component output should be responsive.
+* Web component should use as few frameworks / libraries as possible.
 
 
 ### Additional notes ###
